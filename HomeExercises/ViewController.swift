@@ -20,4 +20,8 @@ final class ViewController: UIViewController {
         view.backgroundColor = .blue
         title = "ViewController"
     }
+    
+    private func configButton() {
+        // Config Button
+    }
 }
