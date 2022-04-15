@@ -13,6 +13,10 @@ final class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        configView()
+    }
+    
+    private func configView() {
         view.backgroundColor = .blue
         title = "ViewController"
     }
