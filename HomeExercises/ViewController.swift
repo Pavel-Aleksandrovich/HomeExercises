@@ -9,7 +9,7 @@ import UIKit
 
 final class ViewController: UIViewController {
     
-    private let button = UIButton()
+    private let button = CustomButton()
     
     override func viewDidLoad() {
         super.viewDidLoad()
