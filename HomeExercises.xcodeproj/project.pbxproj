@@ -15,6 +15,7 @@
 		8472122428093C45008C91A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8472122228093C45008C91A9 /* LaunchScreen.storyboard */; };
 		8472122C28093CCA008C91A9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 8472122B28093CCA008C91A9 /* .gitignore */; };
 		8472122E28096EF3008C91A9 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8472122D28096EF3008C91A9 /* CustomButton.swift */; };
+		84721230280A6B29008C91A9 /* testTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8472122F280A6B29008C91A9 /* testTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8472122528093C45008C91A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8472122B28093CCA008C91A9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		8472122D28096EF3008C91A9 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		8472122F280A6B29008C91A9 /* testTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				8472121728093C44008C91A9 /* AppDelegate.swift */,
 				8472121928093C44008C91A9 /* SceneDelegate.swift */,
 				8472121B28093C44008C91A9 /* ViewController.swift */,
+				8472122F280A6B29008C91A9 /* testTest.swift */,
 				8472122D28096EF3008C91A9 /* CustomButton.swift */,
 				8472121D28093C44008C91A9 /* Main.storyboard */,
 				8472122028093C45008C91A9 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				8472122E28096EF3008C91A9 /* CustomButton.swift in Sources */,
 				8472121828093C44008C91A9 /* AppDelegate.swift in Sources */,
 				8472121A28093C44008C91A9 /* SceneDelegate.swift in Sources */,
+				84721230280A6B29008C91A9 /* testTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
