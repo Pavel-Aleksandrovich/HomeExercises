@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import SnapKit
 
 final class ViewController: UIViewController {
     
@@ -24,9 +23,5 @@ final class ViewController: UIViewController {
     
     private func configButton() {
         // Config Button
-    }
-    
-    private func testTest() {
-        print(#function)
     }
 }
